@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 
 use App\Semester;
-class SemesterController extends Controller
+class SettingsController extends Controller
 {
     public function add()
     {  

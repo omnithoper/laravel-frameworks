@@ -14,7 +14,7 @@ use App\Country;
 */
 
 Route::get('/','IndexController@index');
-
+/*
 Route::get('/settings','SettingsController@index');
 
 Route::get('admin/post/example',array('as'=>'admin.home', function () {
